@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @RylieCloud
 - 👀 I’m interested in ...learning code, photography, and music is great cuz it is there when the rest of the world lets you down.
-- 🌱 I’m currently learning ...js,css,java,html 
+- 🌱 I’m currently learning ...front end development 
 - 💞️ I’m looking to collaborate on ...upcoming new projects
 - 📫 How to reach me ...discord probably! ryliecloud
 
